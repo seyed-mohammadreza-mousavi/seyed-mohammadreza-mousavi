@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Reza
-![Profile View Counter](https://komarev.com/ghpvc/?username=seyed-mohammadreza-mousavi)
+- ![Profile View Counter](https://komarev.com/ghpvc/?username=seyed-mohammadreza-mousavi)
 
 <!--
 **seyed-mohammadreza-mousavi/seyed-mohammadreza-mousavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
