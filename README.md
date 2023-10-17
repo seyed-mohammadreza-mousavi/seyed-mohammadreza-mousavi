@@ -1,4 +1,4 @@
-![](https://github.com/seyed-mohammadreza-mousavi/seyed-mohammadreza-mousavi/blob/main/git_cover.gif?raw=true)
+![](https://github.com/seyed-mohammadreza-mousavi/seyed-mohammadreza-mousavi/blob/main/git_cover_png.png?raw=true)
 
 ### Hi there 👋
 I am Reza
