@@ -1,9 +1,4 @@
-![seyed-mohammadreza-mousavi github cover](https://github.com/seyed-mohammadreza-mousavi/seyed-mohammadreza-mousavi/blob/main/git_cover_png.png?raw=true)
-
-
-### Hi there 👋
-I am Reza
-
+![seyed-mohammadreza-mousavi github cover](https://github.com/seyed-mohammadreza-mousavi/seyed-mohammadreza-mousavi/blob/main/git_cover_png.png?raw=true) 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=seyed-mohammadreza-mousavi)
 
 📈 my github stats
