@@ -14,5 +14,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: seyed-mohammadreza-mousavi/todoist-readme@master
         with:
-          TODOIST_API_KEY: ${{ secrets.1ebc2f98b6e4372be8bb5a09abda59202d281d82 }}
+          TODOIST_API_KEY: ${{ secrets.1dc2b9fe4d9d9df16044ee1bd6fdc821837a039a }}
           PREMIUM: ""
