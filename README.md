@@ -22,12 +22,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=seyed-mohammadreza-mousavi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=seyed-mohammadreza-mousavi&theme=dark&hide_border=false)<br/>-->
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=seyed-mohammadreza-mousavi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
-
-<h4 align="center">
-😂 Meme of the day
-</h4>
-
-<p align="center">
+<p align="right">
 <img src='https://randommeme-five.vercel.app/' style="height: 450px;"/>
 </p>
 <!--### 🔝 Top Contributed Repo
