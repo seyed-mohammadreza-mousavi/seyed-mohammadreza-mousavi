@@ -1,5 +1,4 @@
-<img src="https://github.com/seyed-mohammadreza-mousavi/seyed-mohammadreza-mousavi/blob/master/git_cover.gif" alt="seyed-mohammadreza-mousavi GitHub README header image">
-### Hi there 👋
+![](https://github.com/seyed-mohammadreza-mousavi/seyed-mohammadreza-mousavi/blob/master/git_cover.gif?raw=true)### Hi there 👋
 I am Reza
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=seyed-mohammadreza-mousavi)
