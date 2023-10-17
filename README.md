@@ -14,9 +14,11 @@
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=seyed-mohammadreza-mousavi&theme=dark&hide_border=false)<br/>-->
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=seyed-mohammadreza-mousavi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
 
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="[https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=seyed-mohammadreza-mousavi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)" />
- <img class="img" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact](https://randommeme-five.vercel.app/)" />
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="[https://github-readme-stats.vercel.app/api?username=user&show_icons=true&theme=blue-green](https://github-readme-stats.vercel.app/api?username=seyed-mohammadreza-mousavi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=user&theme=blue-green&langs_count=8&layout=compact](https://github-readme-streak-stats.herokuapp.com/?user=seyed-mohammadreza-mousavi&theme=dark&hide_border=false)" /></div>
 </div>
 
 ### 😂 Meme of the day
