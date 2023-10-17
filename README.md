@@ -34,7 +34,8 @@
 <!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=seyed-mohammadreza-mousavi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)-->
 
----
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314rj7xjuttgbaouvgf6wrsevjyy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 [![](https://visitcount.itsvg.in/api?id=seyed-mohammadreza-mousavi&icon=5&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
