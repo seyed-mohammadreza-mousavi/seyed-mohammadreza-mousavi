@@ -7,8 +7,6 @@ I am Reza
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=seyed-mohammadreza-mousavi&show_icons=true&theme=gotham" alt="seyed-mohammadreza-mousavi" />
 
-![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
-
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -21,7 +19,7 @@ I am Reza
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 
-  
+  ![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
   
   
   
