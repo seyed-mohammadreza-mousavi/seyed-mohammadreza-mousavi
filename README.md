@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="800" src="./github-header-image.png">
+<img align="middle" alt="Coding" width="800" src="./github-header-image.png">
 
 # 💫 About Me:
 🌱 I’m currently learning Camtasia<br>👨‍💻 All of my projects are available at seyed-mohammadreza-mousavi<br>💬 Ask me about transformers and related technologies.<br>📫 How to reach me mohammadreza92299@gmail.com<br>⚡ Fun fact Fast-Food fanatic, Pizza.
