@@ -25,7 +25,9 @@
 | <a href="https://github.com/seyed-mohammadreza-mousavi/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=seyed-mohammadreza-mousavi&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Reza's github stats" /></a> | <a href="https://github.com/seyed-mohammadreza-mousavi/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyed-mohammadreza-mousavi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></a> | 
 | ------------- | ------------- | 
 
-![](https://github-readme-stats.vercel.app/api?username=seyed-mohammadreza-mousavi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=seyed-mohammadreza-mousavi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!--![](https://github-readme-stats.vercel.app/api?username=seyed-mohammadreza-mousavi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=seyed-mohammadreza-mousavi&theme=dark&hide_border=false)<br/>-->
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=seyed-mohammadreza-mousavi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
 
@@ -33,8 +35,6 @@
 😂 Meme of the day
 </h4>
 
-<a href="https://github.com/seyed-mohammadreza-mousavi/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyed-mohammadreza-mousavi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></a> | <a href="https://github.com/seyed-mohammadreza-mousavi/"><img align="center" src="https://randommeme-five.vercel.app/" /></a>
-| ------------- | ------------- | 
 <p align="right">
 <img src='https://randommeme-five.vercel.app/' style="height: 450px;"/>
 </p>
