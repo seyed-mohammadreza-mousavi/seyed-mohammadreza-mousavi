@@ -1,10 +1,10 @@
 <img align="middle" alt="Coding" width="800" src="./github-header-image.png">
 
 [![](https://visitcount.itsvg.in/api?id=seyed-mohammadreza-mousavi&icon=5&color=12)](https://visitcount.itsvg.in)
-
+<details><summary>
 <h2 align="center">
 💫 About Me:
-</h2>
+</h2></summary>
 🌱 I’m currently learning Camtasia<br>👨‍💻 All of my projects are available at seyed-mohammadreza-mousavi<br>💬 Ask me about transformers and related technologies.<br>📫 How to reach me mohammadreza92299@gmail.com<br>⚡ Fun fact Fast-Food fanatic, Pizza.
 <details><summary>
 <h2 align="center">
@@ -12,6 +12,7 @@
 </h2></summary>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smohammadrezamoosavi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%410078A5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seyed-mohammadreza-mousavi) [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://web.telegram.com/smohammadrezamoosavi) [![Github](https://img.shields.io/badge/Github-%817077E1.svg?logo=Github&logoColor=Orange)]([https://web.telegram.com/smohammadrezamoosavi](https://github.com/seyed-mohammadreza-mousavi/))
+</details>
 </details>
 <details><summary>
 <h3 align="center">
