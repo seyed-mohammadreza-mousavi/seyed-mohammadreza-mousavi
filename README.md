@@ -36,6 +36,12 @@
   
 </details>
 
+### Certifications 📜
+- [Practical Reinforcement Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/AUVVSHZFH7XZ) @ Coursera
+- [Introduction to Deep Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/D4VMH74AJHHK) @ Coursera
+- [Bayesian Methods for Machine Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/5R62SGB3G6GF) @ Coursera
+- [Hadoop. System for processing large amounts of data](https://stepik.org/cert/166893) @ Stepik
+
 <details><summary>
 <h3 align="center">
 🌐 Languages 
