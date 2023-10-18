@@ -56,6 +56,19 @@
 </details>
 <details><summary>
 <h4 align="right">
+
+</details>
+<details><summary>
+<h3 align="center">
+🌐 Languages 
+</h3></summary>
+
+| Language      | Proficiency                                                               |
+| ------------- | ------------------------------------------------------------------------- |
+| English       | C1 ([EFSET certified](https://www.efset.org/cert/XHq8M3))                 |
+| Persian       | Native language       
+</details>
+  
 😂 Meme of the day and some humor
 </h4></summary>
 <p align="center">
