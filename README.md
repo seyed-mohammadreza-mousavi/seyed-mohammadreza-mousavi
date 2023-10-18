@@ -5,7 +5,7 @@
 <h2 align="center">
 💫 About Me:
 </h2></summary>
-🌱 I’m currently learning Camtasia<br>👨‍💻 All of my projects are available at seyed-mohammadreza-mousavi<br>💬 Ask me about transformers and related technologies.<br>📫 How to reach me mohammadreza92299@gmail.com<br>⚡ Fun fact Fast-Food fanatic, Pizza.
+🌱 I’m currently learning Camtasia<br>👨‍💻 All of my projects are available at seyed-mohammadreza-mousavi<br>💬 Ask me about Deep learning, transformers and related technologies.<br>📫 How to reach me mohammadreza92299@gmail.com<br>⚡ Fun fact Fast-Food fanatic, Pizza.
 <details><summary>
 <h2 align="center">
 🌐 Follow me on:
