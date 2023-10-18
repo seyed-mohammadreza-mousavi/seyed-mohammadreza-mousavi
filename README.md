@@ -11,7 +11,7 @@
 🌐 Follow me on:
 </h2></summary>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smohammadrezamoosavi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%410078A5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seyed-mohammadreza-mousavi) [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://web.telegram.com/smohammadrezamoosavi) [![Github](https://img.shields.io/badge/Github-%217077E1.svg?logo=Github&logoColor=Orange)]([https://web.telegram.com/smohammadrezamoosavi](https://github.com/seyed-mohammadreza-mousavi/))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smohammadrezamoosavi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%410078A5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seyed-mohammadreza-mousavi) [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://web.telegram.com/smohammadrezamoosavi) [![Github](https://img.shields.io/badge/Github-%817077E1.svg?logo=Github&logoColor=Orange)]([https://web.telegram.com/smohammadrezamoosavi](https://github.com/seyed-mohammadreza-mousavi/))
 </details>
 <details><summary>
 <h3 align="center">
