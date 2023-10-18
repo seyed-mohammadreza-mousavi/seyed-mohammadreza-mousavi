@@ -26,7 +26,7 @@
 📊 GitHub Stats:
 </h3></summary>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Reports ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
