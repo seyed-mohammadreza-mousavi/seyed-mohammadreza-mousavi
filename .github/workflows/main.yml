@@ -18,7 +18,7 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: seyed-mohammadreza-mousavi/README@main
+      - uses: seyed-mohammadreza-mousavi/readme@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         
