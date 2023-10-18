@@ -2,14 +2,14 @@
 
 [![](https://visitcount.itsvg.in/api?id=seyed-mohammadreza-mousavi&icon=5&color=12)](https://visitcount.itsvg.in)
 <details><summary>
-<h2 align="center">
+<h3 align="center">
 💫 About Me:
-</h2></summary>
+</h3></summary>
 🌱 I’m currently learning Camtasia<br>👨‍💻 All of my projects are available at seyed-mohammadreza-mousavi<br>💬 Ask me about Deep learning, transformers and related technologies.<br>📫 How to reach me mohammadreza92299@gmail.com<br>⚡ Fun fact Fast-Food fanatic, Pizza.
 <details><summary>
-<h2 align="center">
+<h3 align="center">
 🌐 Follow me on:
-</h2></summary>
+</h3></summary>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smohammadrezamoosavi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%410078A5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seyed-mohammadreza-mousavi) [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://web.telegram.com/smohammadrezamoosavi) [![Github](https://img.shields.io/badge/Github-%817077E1.svg?logo=Github&logoColor=Orange)]([https://web.telegram.com/smohammadrezamoosavi](https://github.com/seyed-mohammadreza-mousavi/))
 </details>
@@ -53,7 +53,7 @@
 📊 GitHub Stats:
 </h3></summary>
 
-<h2 align="center">⚡ Reports ⚡</h2>
+<h3 align="center">⚡ Reports ⚡</h3>
 <br>
 <p align=center>
   <div align=center>
@@ -99,8 +99,8 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <details><summary>
-<h3 align="center">
-tasks</h3></summary>
+<h4 align="center">
+tasks</h4></summary>
 
 - [x] Born
 - [ ] Got a job
