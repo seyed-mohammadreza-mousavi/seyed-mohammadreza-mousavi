@@ -60,6 +60,7 @@
 </h4></summary>
 <p align="center">
 <img src='https://randommeme-five.vercel.app/' style="height: 450px;"/></br>
+---
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
 </p>
 </details>
