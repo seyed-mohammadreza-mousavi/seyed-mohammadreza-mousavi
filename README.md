@@ -33,7 +33,7 @@
 
 <a href="https://www.linkedin.com/learning/certificates/b3d6e682370535a00aad8c1bd733a67485b01a561186563e9d42e8cc2bade9bc?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B5gpWzQFMT96gyK4Y1y7aFA%3D%3D"> Deep Learning: Image Recognition (LinkedIn Learning)</a>
 
-<a href="https://www.linkedin.com/learning/certificates/16304fbd2924d13e8c4a836610b499b1500fa6ccaf1b9618ee332d011d63b246?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B5gpWzQFMT96gyK4Y1y7aFA%3D%3D"> Machine Learning with Python: Foundations</a>
+<a href="https://www.linkedin.com/learning/certificates/16304fbd2924d13e8c4a836610b499b1500fa6ccaf1b9618ee332d011d63b246?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B5gpWzQFMT96gyK4Y1y7aFA%3D%3D"> Machine Learning with Python: Foundations (LinkedIn Learning)</a>
   
 </details>
 
