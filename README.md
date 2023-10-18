@@ -27,24 +27,16 @@
 💻 Certifications:
 </h3></summary>
 
-<a href="https://www.google.com">Supervised Machine Learning: Regression and Classification (Coursera)</a>
-  
-- [Advance Your Skills in Deep Learning and Neural Networks](https://www.linkedin.com/learning/certificates/4d256cd0de8ca2f5d969ffd7d562655506271be2a1b6459b407f0a0da609f00c?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B5gpWzQFMT96gyK4Y1y7aFA%3D%3D) @ LinkedIn Learning
-  
-- [Deep Learning: Image Recognition](https://www.linkedin.com/in/seyed-mohammadreza-mousavi/details/certifications/) @ LinkedIn Learning
-  
-- [Machine Learning with Python: Foundations](https://www.linkedin.com/learning/certificates/16304fbd2924d13e8c4a836610b499b1500fa6ccaf1b9618ee332d011d63b246?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B5gpWzQFMT96gyK4Y1y7aFA%3D%3D) @ LinkedIn Learning
+<a href="https://www.coursera.org/account/accomplishments/certificate/4EP92VRUZJYU">Supervised Machine Learning: Regression and Classification (Coursera)</a>
+
+<a href="https://www.linkedin.com/learning/certificates/4d256cd0de8ca2f5d969ffd7d562655506271be2a1b6459b407f0a0da609f00c?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B5gpWzQFMT96gyK4Y1y7aFA%3D%3D"> Advance Your Skills in Deep Learning and Neural Networks (LinkedIn Learning)</a>
+
+<a href="https://www.linkedin.com/learning/certificates/b3d6e682370535a00aad8c1bd733a67485b01a561186563e9d42e8cc2bade9bc?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B5gpWzQFMT96gyK4Y1y7aFA%3D%3D"> Deep Learning: Image Recognition (LinkedIn Learning)</a>
+
+<a href="https://www.linkedin.com/learning/certificates/16304fbd2924d13e8c4a836610b499b1500fa6ccaf1b9618ee332d011d63b246?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B5gpWzQFMT96gyK4Y1y7aFA%3D%3D"> Machine Learning with Python: Foundations</a>
   
 </details>
 
-<details><summary>
-<h3 align="center">
- Certifications </h3></summary>📜
-- [Practical Reinforcement Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/AUVVSHZFH7XZ) @ Coursera
-- [Introduction to Deep Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/D4VMH74AJHHK) @ Coursera
-- [Bayesian Methods for Machine Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/5R62SGB3G6GF) @ Coursera
-- [Hadoop. System for processing large amounts of data](https://stepik.org/cert/166893) @ Stepik
-</details>
 <details><summary>
 <h3 align="center">
 🌐 Languages 
