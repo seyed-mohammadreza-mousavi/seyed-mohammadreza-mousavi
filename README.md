@@ -29,7 +29,7 @@
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
-| English       | C1 ([EFSET certified](https://www.efset.org/cert/XHq8M3))                 |
+| English       | C1 Advanced ([EFSET certified](https://www.efset.org/cert/XHq8M3))        |
 | Persian       | Native language       
 </details>
 
