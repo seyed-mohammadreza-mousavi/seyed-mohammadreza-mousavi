@@ -69,7 +69,7 @@
 | Persian       | Native language       
 </details>
 
-<details>
+<details><summary>
 😂 Meme of the day and some humor
 </h4></summary>
 <p align="center">
