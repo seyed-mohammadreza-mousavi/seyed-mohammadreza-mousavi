@@ -35,8 +35,10 @@
 - [Machine Learning with Python: Foundations](https://www.linkedin.com/learning/certificates/16304fbd2924d13e8c4a836610b499b1500fa6ccaf1b9618ee332d011d63b246?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B5gpWzQFMT96gyK4Y1y7aFA%3D%3D) @ LinkedIn Learning
   
 </details>
-<details>
-### Certifications 📜
+
+<details><summary>
+<h3 align="center">
+ Certifications </h3></summary>📜
 - [Practical Reinforcement Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/AUVVSHZFH7XZ) @ Coursera
 - [Introduction to Deep Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/D4VMH74AJHHK) @ Coursera
 - [Bayesian Methods for Machine Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/5R62SGB3G6GF) @ Coursera
