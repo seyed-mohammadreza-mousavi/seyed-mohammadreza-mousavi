@@ -1,8 +1,10 @@
 <img align="middle" alt="Coding" width="800" src="./github-header-image.png">
 
-<h1 align="center">
+[![](https://visitcount.itsvg.in/api?id=seyed-mohammadreza-mousavi&icon=5&color=12)](https://visitcount.itsvg.in)
+
+<h2 align="center">
 💫 About Me:
-</h1>
+</h2>
 🌱 I’m currently learning Camtasia<br>👨‍💻 All of my projects are available at seyed-mohammadreza-mousavi<br>💬 Ask me about transformers and related technologies.<br>📫 How to reach me mohammadreza92299@gmail.com<br>⚡ Fun fact Fast-Food fanatic, Pizza.
 
 <h2 align="center">
@@ -33,7 +35,5 @@
 </p>
 <!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=seyed-mohammadreza-mousavi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)-->
-
-[![](https://visitcount.itsvg.in/api?id=seyed-mohammadreza-mousavi&icon=5&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
