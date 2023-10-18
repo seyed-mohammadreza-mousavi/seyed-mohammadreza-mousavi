@@ -22,6 +22,9 @@
 📊 GitHub Stats:
 </h3>
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 ![](https://github-readme-stats.vercel.app/api?username=seyed-mohammadreza-mousavi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=seyed-mohammadreza-mousavi&theme=dark&hide_border=false)<br/>-->
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=seyed-mohammadreza-mousavi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
