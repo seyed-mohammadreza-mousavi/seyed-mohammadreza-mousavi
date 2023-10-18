@@ -32,7 +32,7 @@
 <h4 align="right">
 😂 Meme of the day
 </h4></summary>
-<p align="right">
+<p align="center">
 <img src='https://randommeme-five.vercel.app/' style="height: 450px;"/>
 </p>
 </details>
