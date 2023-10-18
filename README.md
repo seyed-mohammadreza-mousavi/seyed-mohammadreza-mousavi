@@ -26,7 +26,8 @@
 <h3 align="center">
 💻 Certifications:
 </h3></summary>
-- [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/certificate/4EP92VRUZJYU) @ Coursera
+
+<a href="https://www.google.com">Supervised Machine Learning: Regression and Classification (Coursera)</a>
   
 - [Advance Your Skills in Deep Learning and Neural Networks](https://www.linkedin.com/learning/certificates/4d256cd0de8ca2f5d969ffd7d562655506271be2a1b6459b407f0a0da609f00c?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B5gpWzQFMT96gyK4Y1y7aFA%3D%3D) @ LinkedIn Learning
   
