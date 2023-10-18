@@ -68,7 +68,8 @@
 | English       | C1 ([EFSET certified](https://www.efset.org/cert/XHq8M3))                 |
 | Persian       | Native language       
 </details>
-  
+
+<details>
 😂 Meme of the day and some humor
 </h4></summary>
 <p align="center">
