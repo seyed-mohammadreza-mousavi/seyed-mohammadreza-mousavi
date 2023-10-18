@@ -54,10 +54,7 @@
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=seyed-mohammadreza-mousavi&theme=dark&hide_border=false)<br/>-->
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=seyed-mohammadreza-mousavi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
 </details>
-<details><summary>
-<h4 align="right">
 
-</details>
 <details><summary>
 <h3 align="center">
 🌐 Languages 
