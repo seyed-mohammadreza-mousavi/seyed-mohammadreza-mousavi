@@ -6,13 +6,13 @@
 💫 About Me:
 </h3></summary>
 🌱 I’m currently learning Camtasia<br>👨‍💻 All of my projects are available at seyed-mohammadreza-mousavi<br>💬 Ask me about Deep learning, transformers and related technologies.<br>📫 How to reach me mohammadreza92299@gmail.com<br>⚡ Fun fact Fast-Food fanatic, Pizza.
+</details>
 <details><summary>
 <h3 align="center">
 🌐 Follow me on:
 </h3></summary>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smohammadrezamoosavi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%410078A5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seyed-mohammadreza-mousavi) [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://web.telegram.com/smohammadrezamoosavi) [![Github](https://img.shields.io/badge/Github-%817077E1.svg?logo=Github&logoColor=Orange)]([https://web.telegram.com/smohammadrezamoosavi](https://github.com/seyed-mohammadreza-mousavi/))
-</details>
 </details>
 <details><summary>
 <h3 align="center">
