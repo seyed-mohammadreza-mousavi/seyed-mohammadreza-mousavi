@@ -13,4 +13,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
+          TODOIST_API_KEY: ${{ secrets.TODOISTAPI }}
