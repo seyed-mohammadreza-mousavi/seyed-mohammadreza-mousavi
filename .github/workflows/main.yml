@@ -12,6 +12,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: seyed-mohammadreza-mousavi/todoist-readme@main
+      - uses: ./.github/actions/todoist-readme@main
         with:
           token: ${{ secrets.TODOISTAPI }}
