@@ -109,7 +109,7 @@ tasks</h4></summary>
 - [ ] Die
 </details>
 
-# Todoist Stats
+### Todoist Stats
 
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
