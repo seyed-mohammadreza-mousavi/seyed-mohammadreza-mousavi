@@ -2,30 +2,30 @@
 
 [![](https://visitcount.itsvg.in/api?id=seyed-mohammadreza-mousavi&icon=5&color=12)](https://visitcount.itsvg.in)
 <details><summary>
-<h3 align="center">
+<h4 align="center">
 💫 About Me:
-</h3></summary>
+</h4></summary>
 🌱 I’m currently learning Camtasia<br>👨‍💻 All of my projects are available at seyed-mohammadreza-mousavi<br>💬 Ask me about Deep learning, transformers and related technologies.<br>📫 How to reach me mohammadreza92299@gmail.com<br>⚡ Fun fact Fast-Food fanatic, Pizza.
 </details>
 <details><summary>
-<h3 align="center">
+<h4 align="center">
 🌐 Follow me on:
-</h3></summary>
+</h4></summary>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%410078A5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seyed-mohammadreza-mousavi) [![Github](https://img.shields.io/badge/Github-%817077E1.svg?logo=Github&logoColor=Orange)](https://github.com/seyed-mohammadreza-mousavi/) [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://web.telegram.com/smohammadrezamoosavi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smohammadrezamoosavi)  
 </details>
 <details><summary>
-<h3 align="center">
-💻 Programming languages & Tools:
-</h3></summary>
+<h4 align="center">
+💻 Languages & Tools:
+</h4></summary>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 </details>
 
 <details><summary>
-<h3 align="center">
+<h4 align="center">
 💻 Certifications:
-</h3></summary>
+</h4></summary>
 
 <a href="https://www.coursera.org/account/accomplishments/certificate/4EP92VRUZJYU"> Supervised Machine Learning: Regression and Classification</a><span> @ Coursera</span>
 
@@ -38,9 +38,9 @@
 </details>
 
 <details><summary>
-<h3 align="center">
+<h4 align="center">
 🌐 Languages 
-</h3></summary>
+</h4></summary>
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
@@ -49,11 +49,11 @@
 </details>
 
 <details><summary>
-<h3 align="center">
+<h4 align="center">
 📊 GitHub Stats:
-</h3></summary>
+</h4></summary>
 
-<h3 align="center">⚡ Reports ⚡</h3>
+<h4 align="center">⚡ Reports ⚡</h4>
 <br>
 <p align=center>
   <div align=center>
