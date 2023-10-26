@@ -1,4 +1,4 @@
-name: Todoist Readme
+name: todoist-readme
 
 on:
   workflow_dispatch:
