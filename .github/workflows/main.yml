@@ -14,5 +14,5 @@ jobs:
       - uses: actions/checkout@main
 #      - uses: seyed-mohammadreza-mousavi/seyed-mohammadreza-mousavi/.github/actions/workflows/todoist-readme@main
         with:
-          repository: ${{github.repository}}
+          repository: https://github.com/seyed-mohammadreza-mousavi/seyed-mohammadreza-mousavi.git
           token: ${{ secrets.TODOISTAPI }}
