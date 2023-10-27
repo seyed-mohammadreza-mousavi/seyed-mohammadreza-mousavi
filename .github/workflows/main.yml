@@ -11,9 +11,11 @@ jobs:
     name: Update todoist stats
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@main
+      - uses: actions/checkout@v3
      # - uses: seyed-mohammadreza-mousavi/seyed-mohammadreza-mousavi.git@main
       - uses: seyed-mohammadreza-mousavi/seyed-mohammadreza-mousavi/.github/actions/todoist-readme@main
         with:
+          Default: ${{ github.repository }}
 #          repository: seyed-mohammadreza-mousavi/seyed-mohammadreza-mousavi.git
           token: ${{ secrets.TODOISTAPI }}
+
