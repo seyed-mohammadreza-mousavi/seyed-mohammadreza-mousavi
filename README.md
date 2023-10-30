@@ -1,4 +1,4 @@
-<img align="middle" alt="Coding" width="800" src="./github-header-image.png"
+<img align="middle" alt="Coding" width="800" src="./github-header-image.png">
 
 [![](https://visitcount.itsvg.in/api?id=seyed-mohammadreza-mousavi&icon=5&color=12)](https://visitcount.itsvg.in)
 <details><summary>
