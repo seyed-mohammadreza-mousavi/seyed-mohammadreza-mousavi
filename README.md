@@ -24,7 +24,7 @@
 
 <details><summary>
 <h4 align="center">
-💻 Certifications:
+💻 Certifications (not updated):
 </h4></summary>
 
 <a href="https://www.coursera.org/account/accomplishments/certificate/4EP92VRUZJYU"> Supervised Machine Learning: Regression and Classification</a><span> @ Coursera</span>
