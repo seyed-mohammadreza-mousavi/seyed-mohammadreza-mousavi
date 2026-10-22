@@ -5,8 +5,17 @@
 <h4 align="center">
 💫 About Me:
 </h4></summary>
-🌱 I’m currently working on SLAM systems<br>👨‍💻 All of my projects are available at seyed-mohammadreza-mousavi<br>💬 Ask me about Deep learning, transformers and related technologies.<br>📫 How to reach me mohammadreza92299@gmail.com<br>⚡ Fun fact Fast-Food fanatic, Pizza.
+
+🎓 PhD Candidate in Electrical Engineering at PUC-Rio (Signal Processing & AI)<br>
+🤖 AI/ML Engineer & Data Engineer with experience in Python, SQL, Data Pipelines, LLMs, Computer Vision, and NLP<br>
+☁️ Interested in Cloud technologies (AWS, GCP, Azure), scalable AI systems, and production ML pipelines<br>
+👨‍💻 All of my projects are available on my GitHub<br>
+💬 Ask me about Python, Data Engineering, Deep Learning, Transformers, LLMs, and Computer Vision<br>
+📫 How to reach me: mohammadreza92299@gmail.com<br>
+⚡ Fun fact: Fast-food fanatic 🍕.
+
 </details>
+
 <details><summary>
 <h4 align="center">
 🌐 Follow me on:
